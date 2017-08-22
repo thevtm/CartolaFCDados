@@ -1,43 +1,33 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# History files
+.Rhistory
+.Rapp.history
 
-# Folder config file
-Desktop.ini
+# Session Data files
+.RData
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Example code in package build process
+*-Ex.R
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Output files from R CMD build
+/*.tar.gz
 
-# Windows shortcuts
-*.lnk
+# Output files from R CMD check
+/*.Rcheck/
 
-# =========================
-# Operating System Files
-# =========================
+# RStudio files
+.Rproj.user/
 
-# OSX
-# =========================
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
 
-# Thumbnails
-._*
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
