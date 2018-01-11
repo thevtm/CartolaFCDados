@@ -4,6 +4,7 @@
 72167,"Mazinho",264,5
 38162,"Fred",266,5
 75295,"Paolo Guerrero",264,5
+75295,"Paolo Guerrero",262,5
 38246,"Robinho",277,5
 37770,"Marcelo Grohe",284,1
 52950,"Victor",282,1
@@ -26,8 +27,10 @@
 62047,"Jean",266,4
 62977,"Ganso",276,4
 82456,"Rafhael Lucas",264,5
+82456,"Rafhael Lucas",294,5
 37919,"Luis Fabiano",276,5
 68744,"Emerson",264,5
+68744,"Emerson",262,5
 42116,"Willian",283,5
 37613,"Dagoberto",267,5
 69325,"Aránguiz",285,4
@@ -60,11 +63,14 @@
 50317,"David Braz",277,3
 37607,"Michel Bastos",276,4
 73635,"Rildo",303,5
+73635,"Rildo",264,5
 52190,"Ralf",264,4
 62136,"Marcelo Oliveira",283,6
+62136,"Marcelo Oliveira",275,6
 68834,"Rithely",292,4
 71631,"Weverton",293,1
 37673,"Alecsandro",262,5
+37673,"Alecsandro",275,5
 80692,"Luan",267,3
 70360,"Eduardo Sasha",285,5
 63008,"Rafael Toloi",276,3
@@ -88,6 +94,8 @@
 68925,"Leonardo Silva",282,3
 80538,"Marlon",266,3
 50462,"Leandro Almeida",264,3
+50462,"Leandro Almeida",294,3
+50462,"Leandro Almeida",275,3
 73918,"Canteros",262,4
 84848,"Erik",290,5
 38067,"Danilo",264,4
@@ -113,6 +121,8 @@
 38064,"Denilson",276,4
 42500,"Fagner",264,2
 38279,"Wellington Paulista",264,5
+38279,"Wellington Paulista",294,5
+38279,"Wellington Paulista",266,5
 51318,"Leandro Donizete",282,4
 38852,"Anderson",285,4
 73766,"Diego Aguirre",285,6
@@ -128,12 +138,14 @@
 62009,"Camilo",315,4
 83257,"Gabriel",277,5
 72023,"Sueliton",317,2
+72023,"Sueliton",316,2
 38573,"Nilton",285,4
 50421,"Wesley",276,4
 70116,"Fellipe Bastos",284,4
 81770,"Clayton",316,5
 37604,"Paulo André",283,3
 41327,"Vanderlei Luxemburgo",262,6
+41327,"Vanderlei Luxemburgo",283,6
 38431,"Diego Cavalieri",266,1
 68711,"Chiquinho",277,2
 50362,"Lucas",275,2
@@ -146,6 +158,7 @@
 82768,"Danilo",315,1
 68697,"Bernardo",267,4
 50877,"Pedro Ken",264,4
+50877,"Pedro Ken",294,4
 43618,"Luiz Felipe Scolari",284,6
 73800,"Rodrigo Caio",276,4
 60825,"Felipe Azevedo",303,5
@@ -173,10 +186,14 @@
 69705,"Nikão",293,4
 38287,"Roger",315,5
 73465,"Luccas Claro",264,3
+73465,"Luccas Claro",294,3
 38108,"Jorge Henrique",285,5
+38108,"Jorge Henrique",267,5
 84679,"Emanuel Biancucchi",267,4
 50880,"Keirrison",264,5
+50880,"Keirrison",294,5
 62127,"Wallyson",264,5
+62127,"Wallyson",294,5
 37608,"Cristian",264,4
 55519,"Edmílson",315,5
 82469,"Douglas Coutinho ",293,5
@@ -185,6 +202,7 @@
 88479,"Walace",284,4
 37851,"Maicosuel",282,4
 36940,"Oswaldo De Oliveira",275,6
+36940,"Oswaldo De Oliveira",262,6
 51705,"Bruno Rodrigo",283,3
 37655,"Rafael Moura",285,5
 38525,"Cléo",293,5
@@ -192,9 +210,12 @@
 38311,"Márcio Araújo",262,4
 38021,"Wendel",292,4
 63283,"Esquerdinha",290,4
+63283,"Esquerdinha",294,4
 69099,"Seymour",283,4
+69099,"Seymour",267,4
 37652,"Carlos Alberto",316,4
 62119,"Tiago Luis",317,5
+62119,"Tiago Luis",315,5
 72097,"Giovanni",266,2
 50295,"Felipe Menezes",290,4
 81905,"Henrique Dourado",283,5
@@ -212,10 +233,13 @@
 80281,"Cleberson",293,3
 84585,"Allione",275,4
 68685,"Alan Patrick",275,4
+68685,"Alan Patrick",262,4
 38515,"Marquinhos",316,3
 50382,"Charles",283,4
 70132,"Alan Santos",264,4
+70132,"Alan Santos",294,4
 63194,"Carlinhos",264,2
+63194,"Carlinhos",294,2
 50454,"Serginho",267,4
 80129,"Jadson",293,4
 38194,"Antônio Carlos",266,3
@@ -233,22 +257,28 @@
 86264,"Natanael",293,2
 38763,"Marcinho",267,4
 70929,"Negueba",264,5
+70929,"Negueba",294,5
 72943,"Luís Cáceres",264,4
+72943,"Luís Cáceres",294,4
 81845,"Alisson",283,5
 71381,"Ruan",290,5
 88056,"Malcom",264,5
 73375,"Felipe",264,3
 62004,"Bruno Aguiar",317,3
 80374,"Norberto ",264,2
+80374,"Norberto ",294,2
 77579,"Dellatorre",293,5
 60859,"Jael",317,5
 90285,"Bruno Henrique",290,5
 62129,"Wellington",285,4
 71602,"João Paulo",275,2
 72039,"Ferron",316,3
+72039,"Ferron",303,3
 71113,"Felipe ",293,4
+71113,"Felipe ",303,4
 69048,"Mazola",316,5
 74271,"Edigar Junio",293,5
+74271,"Edigar Junio",317,5
 88917,"Murilo Henrique",290,4
 70928,"William Henrique",317,5
 36650,"Magno Alves",266,5
@@ -257,6 +287,7 @@
 69019,"Fabinho ",317,5
 84927,"Dodô",282,4
 72491,"Bressan",262,3
+72491,"Bressan",284,3
 73515,"Gabriel",262,4
 71042,"Augusto César",317,4
 82632,"Lucas Coelho",290,5
@@ -266,6 +297,7 @@
 63020,"Tinga",314,4
 82787,"Joel",283,5
 51681,"Hélder",264,4
+51681,"Hélder",294,4
 78652,"Jhon Cley",267,4
 38632,"Matheus Ferraz",292,3
 73957,"Ewerton Páscoa ",292,3
@@ -276,13 +308,17 @@
 78556,"Lucas",267,4
 70046,"Victor Ferraz",277,2
 83189,"Riascos",283,5
+83189,"Riascos",267,5
 85040,"Gabriel Xavier",283,4
 49641,"Adriano",314,4
 79343,"Doriva",267,6
+79343,"Doriva",303,6
+79343,"Doriva",276,6
 42499,"Bruno",276,2
 70944,"Bruno Henrique",264,4
 90031,"Mendoza",264,5
 37654,"Rosinei",264,4
+37654,"Rosinei",294,4
 37790,"Ceará",283,2
 50645,"Eduardo",293,2
 79826,"Douglas Santos",282,2
@@ -290,6 +326,7 @@
 84684,"Lucas Gomes",266,5
 50292,"Paulinho Dias",293,4
 80944,"Marlone",266,4
+80944,"Marlone",292,4
 37840,"Gustavo",293,3
 88870,"Lula",293,3
 71090,"João Filipe",266,3
@@ -297,12 +334,14 @@
 38365,"Henrique",266,3
 38440,"Pierre",266,4
 56102,"João Paulo",264,4
+56102,"João Paulo",294,4
 91274,"Marcelo Fernandes",277,6
 85931,"Hyoran",315,4
 37783,"Ramon",290,4
 51293,"Wanderson",315,4
 69090,"Matías Rodríguez",284,2
 81952,"Willian",292,4
+81952,"Willian",266,4
 51413,"Walter",264,1
 60852,"Uendel",264,2
 80287,"Luciano",264,5
@@ -336,6 +375,7 @@
 38178,"Roberto",314,5
 88379,"Jean Patrick",267,4
 82306,"Douglas Silva",267,3
+82306,"Douglas Silva",317,3
 37984,"Aranha",275,1
 42232,"Amaral",275,4
 38186,"Adrianinho",303,4
@@ -354,7 +394,9 @@
 77911,"Jean Deretti",316,4
 68830,"Ricardinho",316,4
 71844,"Thiago Galhardo",264,4
+71844,"Thiago Galhardo",294,4
 71778,"Bady",293,4
+71778,"Bady",303,4
 68910,"Anselmo",317,4
 51476,"Rafael Bastos",316,4
 79887,"Fabiano",283,2
@@ -362,6 +404,7 @@
 51175,"Denis",276,1
 72605,"Vitor Hugo",275,3
 80576,"Renato",275,4
+80576,"Renato",317,4
 78012,"Yuri Mamute",284,5
 61188,"Gilberto",267,5
 86410,"Victor Luis",275,4
@@ -374,6 +417,7 @@
 50324,"Hudson",276,4
 53896,"Sandro Silva",267,4
 73085,"Leandro",275,5
+73085,"Leandro",277,5
 82703,"Matheus Biteco",284,4
 37718,"Arouca",275,4
 82737,"Welinton Junior",317,5
@@ -396,6 +440,7 @@
 73750,"Nicolás Freitas",285,4
 36443,"Dida",285,1
 63110,"Alan Ruschel",285,2
+63110,"Alan Ruschel",293,2
 79228,"Bruno Furlan",317,5
 78530,"Matheus Bertotto",285,4
 84861,"Alex Silva",292,2
@@ -407,24 +452,30 @@
 73863,"Claudinei",314,4
 80323,"Marrone",314,2
 80441,"Bonfim ",264,3
+80441,"Bonfim ",294,3
 38745,"Jéci",314,3
 85121,"Robert ",266,4
 68873,"Paulo Victor",262,1
 80036,"Alex Alves",290,3
 79535,"Vaná",264,1
+79535,"Vaná",294,1
 86765,"Bruno Mota",293,4
 69329,"Cereceda",316,2
 81031,"Marquinhos Santos",264,6
+81031,"Marquinhos Santos",294,6
 81950,"Jefferson",316,4
 81914,"Léo Lisboa",316,4
 78407,"Douglas Grolli",283,3
 68928,"Rafael",283,1
 50346,"Guilherme Santos",314,2
 63005,"Welinton",264,3
+63005,"Welinton",294,3
 82503,"Rodolfo",264,4
+82503,"Rodolfo",294,4
 70759,"Martinuccio",266,5
 70111,"Guilherme Mattis",266,3
 83255,"Giva",264,5
+83255,"Giva",294,5
 83528,"Léo Pereira",293,3
 38523,"Edílson",264,2
 79892,"Nenén",315,4
@@ -432,6 +483,7 @@
 88323,"Ángel Romero",264,5
 51042,"Apodi",315,2
 68690,"André",282,5
+68690,"André",292,5
 69008,"Neto",315,3
 79710,"Caíque",293,5
 74078,"Hernani",293,4
@@ -454,6 +506,7 @@
 84887,"Dener",316,4
 73318,"Daniel Borges",293,2
 62069,"Maikon Leite",275,5
+62069,"Maikon Leite",292,5
 70106,"Mouche",275,5
 78176,"Harrison",293,4
 89273,"João Pedro ",275,2
@@ -463,8 +516,10 @@
 73445,"Denner",314,4
 42474,"Eltinho",314,2
 37245,"Guto Ferreira",303,6
+37245,"Guto Ferreira",315,6
 86391,"Sander",314,2
 87211,"Eduardo Baptista",292,6
+87211,"Eduardo Baptista",266,6
 78151,"Vagner",314,1
 78422,"Oswaldo",292,3
 69051,"Danilo Fernandes",292,1
@@ -480,10 +535,13 @@
 89190,"Judivan ",283,5
 52674,"Gilson",303,2
 73644,"Ivan",264,2
+73644,"Ivan",294,2
 88054,"Diogo Sodré",264,4
+88054,"Diogo Sodré",294,4
 78235,"Leandrinho",277,4
 82381,"Juninho",303,4
 73855,"Jubal",277,3
+73855,"Jubal",314,3
 69143,"Diego Ivo",303,3
 73992,"Rodinei",303,2
 84557,"Montoya ",267,4
@@ -495,6 +553,7 @@
 80188,"Marcos Junior",266,5
 71572,"Gabriel",284,3
 73317,"Argel Fucks",316,6
+73317,"Argel Fucks",285,6
 78086,"César",262,1
 38061,"Edcarlos",282,3
 78458,"João Afonso",315,4
@@ -525,6 +584,7 @@
 83511,"Érico Júnior",292,5
 61986,"Aislan",267,3
 88597,"Lucas Crispim",277,4
+88597,"Lucas Crispim",317,4
 71121,"Wesley",290,5
 88225,"Daniel Guedes ",277,2
 69041,"Muriel",285,1
@@ -545,6 +605,7 @@
 71037,"Clayton Sales",290,2
 79339,"Dankler",317,3
 86842,"Ewandro",276,5
+86842,"Ewandro",293,5
 78414,"Rafael Donato",317,3
 50408,"Breno",276,3
 63018,"Guilherme Andrade",264,2
@@ -554,6 +615,7 @@
 86757,"Everton",284,5
 88430,"Luiz Carlos ",292,1
 86588,"Ícaro",264,4
+86588,"Ícaro",294,4
 82639,"Marcelo Hermes",284,2
 87611,"Tiago",284,1
 85149,"Ronaldo",292,4
@@ -564,6 +626,7 @@
 70951,"Fabio",275,1
 79866,"Hemerson Maria",317,6
 72334,"Ayrton",275,2
+72334,"Ayrton",262,2
 80721,"Ryder",275,4
 91714,"Marciel",264,4
 90406,"Crysan",293,5
@@ -590,13 +653,18 @@
 73721,"Marcos Vinícius",283,4
 87401,"Eurico",283,4
 91575,"Mateus Oliveira",264,5
+91575,"Mateus Oliveira",294,5
 61211,"Carlos Cesar",282,2
 91323,"Luccas Barreto",264,4
+91323,"Luccas Barreto",294,4
 82749,"Eberson",264,3
+82749,"Eberson",294,3
 62107,"Rudnei",314,4
 82455,"Zé Rafael ",264,4
+82455,"Zé Rafael ",294,4
 86189,"Mosquito",267,5
 77556,"Bruno",264,1
+77556,"Bruno",294,1
 39572,"Renato",266,2
 84554,"Lucão",276,3
 68932,"Renan Ribeiro",276,1
@@ -609,6 +677,7 @@
 80192,"Hugo Gumiero",293,1
 51779,"Pedro Botelho",282,2
 63418,"Leandro Silva",264,3
+63418,"Leandro Silva",294,3
 82680,"Nathan Índio",303,4
 60797,"Eduardo Neto",314,4
 80381,"Cesinha",303,5
@@ -637,8 +706,11 @@
 85591,"Artur",285,2
 90481,"Alisson Farias",285,4
 90890,"Paulo Victor ",264,5
+90890,"Paulo Victor ",294,5
 91388,"Rodrigo Ramos",264,2
+91388,"Rodrigo Ramos",294,2
 73991,"Walisson",264,3
+73991,"Walisson",294,3
 70986,"Léo Cittadini",277,4
 84896,"Lucas Otávio ",277,4
 88002,"Serginho",277,4
@@ -669,6 +741,7 @@
 60780,"Vinícius Eutrópio",315,6
 90297,"Guilherme",264,1
 87228,"Guilherme Arana",293,2
+87228,"Guilherme Arana",264,2
 82566,"Lucas Machado",315,4
 90777,"Michel",315,2
 90917,"Carlos",290,5
@@ -758,7 +831,9 @@
 89445,"Yuri",315,5
 80286,"Matheus Vidotto",264,1
 73336,"Rafael Martins",264,1
+73336,"Rafael Martins",294,1
 72603,"William Menezes",264,1
+72603,"William Menezes",294,1
 74067,"Charles ",267,1
 85083,"Vinícius Silvestre",275,1
 89306,"Paulinho",282,4
@@ -774,6 +849,7 @@
 78994,"Eduardo",282,4
 87291,"Danilo Pires",282,4
 68907,"Wellington",275,3
+68907,"Wellington",293,3
 79048,"Elisson",283,1
 79585,"Jonatas Paulista",267,4
 87483,"Matheus Índio",267,4
@@ -784,244 +860,251 @@
 80276,"Alexandre Cajuru",293,1
 86760,"Lucas Macanhan",293,1
 86449,"Samuel",264,1
+86449,"Samuel",294,1
 86411,"Breno",283,2
+86411,"Breno",266,2
 79401,"Paulo Otávio",264,2
+79401,"Paulo Otávio",294,2
 82769,"Alan",283,1
 89924,"Bruno Edgar",283,4
 83811,"William Cordeiro",316,2
 63133,"Elias",316,5
 68807,"Neto Berola",282,5
+68807,"Neto Berola",277,5
 38043,"Alessandro",293,2
 82939,"Ruy",264,4
+82939,"Ruy",294,4
 38278,"William Kozlowski",290,4
 36591,"Leonardo",277,3
 91711,"Péricles",290,4
 83433,"Patrick",290,4
 84993,"Fabrício Baiano",264,4
+84993,"Fabrício Baiano",294,4
 91920,"Henrique",316,3
 91921,"Jatobá",316,3
-62137,"Enderson Moreira",NA,6
-91970,"James Freitas",NA,6
-82653,"Vitinho",NA,5
-86970,"Eduardo",NA,3
-71885,"Tiago Costa",NA,2
-84703,"Niltinho",NA,5
-70162,"Jackson Caucaia",NA,4
-82640,"Paulinho",NA,5
-82397,"Núbio Flávio ",NA,5
-91946,"Eriks",NA,3
-91973,"Lucas Marques",NA,4
-91972,"João Paulo",NA,5
-87754,"Diego",NA,2
-91947,"Gelson",NA,4
-87486,"Matheus",NA,2
-79437,"Roger Machado ",NA,6
-60752,"Cristóvão Borges",NA,6
-38187,"Fellype Gabriel",NA,4
-77773,"Vilches",NA,3
-73890,"Mário Sérgio",NA,2
-53148,"Ytalo",NA,5
-68945,"Saimon",NA,3
-87197,"Matheus ",NA,5
-86783,"Henrique",NA,2
-37792,"Edinho",NA,4
-82567,"Moisés",NA,4
-87391,"Allano",NA,5
-91194,"Thiago",NA,1
-91710,"Jacsson",NA,1
-73889,"Wallace",NA,1
-91712,"Matheus Alves",NA,1
-73717,"Juan Carlos Osorio",NA,6
-41258,"Adilson Batista",NA,6
-72382,"Marquinhos",NA,4
-82775,"Lucas Ramon ",NA,2
-70018,"Nilson",NA,5
-84863,"Alberto Valentim",NA,6
-38482,"Marcos Aurélio",NA,4
-38247,"William",NA,5
-37246,"Ney Franco",NA,6
-37633,"Lúcio Flávio",NA,4
-79947,"Marion",NA,5
-81772,"Tauã",NA,5
-89479,"Gustavo Tocantins",NA,5
-92057,"Gabriel Félix",NA,1
-62011,"Choco",NA,5
-40179,"Kleber",NA,5
-38032,"Cleber Santana",NA,4
-50284,"Wilson",NA,1
-84530,"Maxi Rodríguez",NA,4
-82636,"Jefferson Recife",NA,2
-73529,"Jackson",NA,4
-61033,"Rodriguinho",NA,4
-92078,"Wallace",NA,5
-88307,"Marcos Serrato",NA,4
-36856,"Celso Roth",NA,6
-92083,"Augusto César",NA,6
-68758,"Fernandinho",NA,5
-68922,"Fabrício",NA,4
-82767,"Vinícius Araújo",NA,5
-87482,"Gimenez",NA,2
-71581,"Léo Costa",NA,4
-86485,"Keno",NA,5
-92087,"Lyanco",NA,3
-63082,"Rodolfo",NA,1
-77777,"João Schmidt ",NA,4
-81847,"Bruno Dybal",NA,4
-87929,"Matheus Vargas",NA,4
-92085,"Giovanny ",NA,4
-73446,"Éderson",NA,5
-37784,"Herrera",NA,5
-38768,"Andrezinho",NA,4
-68952,"Marinho",NA,5
-86764,"Sidcley",NA,2
-74076,"Misael",NA,4
-92094,"Diogo Vitor",NA,2
-80399,"Higor Leite",NA,4
-42222,"Osvaldo",NA,5
-72767,"Julinho Camargo",NA,6
-40990,"Dorival Júnior",NA,6
-63354,"Rodrigo Moledo",NA,3
-71799,"Silvinho",NA,5
-38508,"Eder Luis",NA,5
-87227,"Zé Paulo",NA,4
-90420,"William Schuster ",NA,4
-69282,"Lucas Barrios",NA,5
-82128,"Ferrugem",NA,2
-68987,"João Vitor",NA,4
-71719,"Elton",NA,4
-79646,"Bruno Pereirinha",NA,2
-92170,"Gabriel Vasconcelos",NA,5
-77567,"Zé Mário",NA,4
-92145,"Hyago",NA,4
-60802,"Bruno Gallo",NA,4
-92146,"André Luís",NA,5
-85297,"Guisao ",NA,4
-37623,"Rafael Marques",NA,3
-82403,"César Martins",NA,3
-68773,"Henrique",NA,5
-78497,"Arnaldo",NA,2
-79400,"Néstor Camacho",NA,4
-92182,"Juninho",NA,3
-92192,"Evandro",NA,5
-51820,"Flavinho",NA,5
-92193,"Ravanelli",NA,5
-86509,"Ebert",NA,2
-36802,"Ronaldinho Gaúcho",NA,4
-70173,"Ederson",NA,4
-37688,"Cícero",NA,4
-37187,"Pc Gusmão",NA,6
-85984,"Barrientos",NA,4
-38139,"Bobô",NA,5
-37705,"Juan",NA,2
-92150,"Daniel Hernández",NA,4
-82750,"Celsinho",NA,4
-71603,"Luiz Eduardo",NA,3
-91740,"Zé Arthur",NA,5
-87266,"Duda",NA,1
-92273,"Odair Hellmann",NA,6
-38913,"Nenê",NA,5
-80363,"Ariel Cabral",NA,4
-69141,"Ricardo Bueno",NA,5
-78756,"Alemão",NA,5
-78718,"Michel",NA,5
-92290,"Matheus Pato",NA,5
-92291,"Bruno Viana",NA,3
-92225,"Thiago Lopes",NA,4
-50402,"Kayke",NA,5
-92293,"Lucas Taylor ",NA,2
-51365,"Hudson Coutinho",NA,6
-70323,"Jorginho",NA,6
-37085,"René Simões",NA,6
-38960,"Zé Eduardo",NA,5
-53865,"Léo Gamalho",NA,5
-79553,"Mansur",NA,2
-88140,"Isaac",NA,5
-92434,"Daniel",NA,4
-92438,"Matheus Phillipe",NA,1
-82341,"Luiz Gustavo",NA,3
-83817,"Clayson",NA,4
-41159,"João Carlos",NA,3
-51869,"Edson Ratinho",NA,2
-73540,"Rogério",NA,5
-71116,"Roberto",NA,2
-92497,"Douglas",NA,4
-78855,"Thiago Santos",NA,4
-87552,"Vitor Bueno",NA,4
-92504,"Batista",NA,5
-92501,"Lucas Lovat",NA,2
-83438,"Guilherme Parede",NA,5
-92500,"Rafael Dumas",NA,3
-92522,"Deivid",NA,6
-72007,"Uillian Correia",NA,4
-89641,"Bruno Ferreira",NA,2
-37281,"Mano Menezes",NA,6
-70515,"Ledesma",NA,4
-38425,"Fábio Ferreira",NA,3
-40758,"Leandrão",NA,5
-62131,"Yuri",NA,4
-87158,"Clebinho",NA,4
-92190,"Gustavo Viera",NA,4
-92574,"Kaio",NA,4
-92584,"Milla",NA,4
-54797,"Túlio De Melo",NA,5
-42225,"Eusébio",NA,2
-92623,"Kauê",NA,5
-92604,"Jeferson",NA,4
-92617,"Léo Tilica",NA,5
-92618,"Wesley",NA,2
-53189,"Alexandro",NA,5
-72133,"Ednei",NA,3
-92630,"Claudinho",NA,5
-92631,"Trindade",NA,4
-88165,"Wilker",NA,5
-72724,"Juba",NA,5
-92663,"Murilo",NA,5
-92662,"Denilson",NA,3
-92661,"Oliveira",NA,2
-50281,"Wanderley Filho",NA,6
-92702,"Daniel Paulista",NA,6
-37086,"Artur Neto",NA,6
-73580,"Falcão",NA,6
-37662,"Jonathan",NA,2
-37837,"Cristian",NA,4
-68787,"Lincom",NA,5
-61149,"Lucca",NA,5
-42236,"Bruno Teles",NA,2
-69070,"Wagner",NA,3
-54422,"Jéferson",NA,4
-80288,"Marcelinho",NA,4
-89226,"Iago Maidana",NA,3
-80338,"Tony ",NA,2
-74081,"Guilherme Costa",NA,4
-92696,"Renato Kayzer",NA,5
-92764,"Bruno Baio",NA,5
-92837,"Sergio Vieira",NA,6
-92811,"Bruno Rodrigues",NA,5
-85465,"Alex Santana",NA,4
-92841,"Fernando Medeiros",NA,4
-92901,"Felipe Moreira",NA,6
-87225,"Pedro Henrique",NA,3
-92848,"Breno Santos",NA,2
-92189,"Samuel ",NA,2
-92981,"Ronaldo",NA,4
-89285,"Matheus Sales",NA,4
-88393,"Ayrton ",NA,2
-89975,"Rodolfo",NA,1
-93028,"Danny Sergio",NA,6
-93108,"Mateus Vital",NA,4
-93153,"Pachequinho",NA,6
-93152,"Tontini",NA,4
-93151,"Thiago Santos",NA,5
-87613,"Raul Cabral",NA,6
-90259,"Luiz Fernando",NA,4
-93317,"Diogo Giacomini",NA,6
-79019,"Jayme De Almeida",NA,6
-93282,"Fabio",NA,4
-86763,"Jonathan ",NA,4
-93281,"Adriano",NA,5
-93283,"Rafinha",NA,4
-93368,"Lucas Veríssimo",NA,3
-89444,"Hugo Ragelli",NA,5
-93377,"Jobson",NA,4
-93378,"Augusto",NA,3
-93376,"Wesley Souza",NA,4
+62137,"Enderson Moreira",266,6
+91970,"James Freitas",284,6
+82653,"Vitinho",284,5
+86970,"Eduardo",285,3
+71885,"Tiago Costa",315,2
+84703,"Niltinho",317,5
+70162,"Jackson Caucaia",267,4
+82640,"Paulinho",294,5
+82397,"Núbio Flávio ",293,5
+91946,"Eriks",285,3
+91973,"Lucas Marques",285,4
+91972,"João Paulo",276,5
+87754,"Diego",317,2
+91947,"Gelson",290,4
+87486,"Matheus",276,2
+79437,"Roger Machado ",284,6
+60752,"Cristóvão Borges",262,6
+60752,"Cristóvão Borges",293,6
+38187,"Fellype Gabriel",275,4
+77773,"Vilches",293,3
+73890,"Mário Sérgio",290,2
+53148,"Ytalo",293,5
+68945,"Saimon",316,3
+87197,"Matheus ",315,5
+86783,"Henrique",294,2
+37792,"Edinho",284,4
+82567,"Moisés",284,4
+87391,"Allano",283,5
+91194,"Thiago",262,1
+91710,"Jacsson",285,1
+73889,"Wallace",290,1
+91712,"Matheus Alves",290,1
+73717,"Juan Carlos Osorio",276,6
+41258,"Adilson Batista",317,6
+72382,"Marquinhos",277,4
+82775,"Lucas Ramon ",284,2
+70018,"Nilson",277,5
+84863,"Alberto Valentim",275,6
+38482,"Marcos Aurélio",294,4
+38247,"William",314,5
+37246,"Ney Franco",294,6
+37633,"Lúcio Flávio",294,4
+79947,"Marion",317,5
+81772,"Tauã",314,5
+89479,"Gustavo Tocantins",264,5
+92057,"Gabriel Félix",267,1
+62011,"Choco",293,5
+40179,"Kleber",294,5
+38032,"Cleber Santana",315,4
+50284,"Wilson",294,1
+84530,"Maxi Rodríguez",284,4
+82636,"Jefferson Recife",303,2
+73529,"Jackson",316,4
+61033,"Rodriguinho",264,4
+92078,"Wallace",292,5
+88307,"Marcos Serrato",303,4
+36856,"Celso Roth",267,6
+92083,"Augusto César",290,6
+68758,"Fernandinho",284,5
+68922,"Fabrício",317,4
+82767,"Vinícius Araújo",283,5
+87482,"Gimenez",290,2
+71581,"Léo Costa",303,4
+86485,"Keno",303,5
+92087,"Lyanco",276,3
+63082,"Rodolfo",293,1
+77777,"João Schmidt ",276,4
+81847,"Bruno Dybal",316,4
+87929,"Matheus Vargas",264,4
+92085,"Giovanny ",303,4
+73446,"Éderson",293,5
+37784,"Herrera",267,5
+38768,"Andrezinho",267,4
+68952,"Marinho",283,5
+86764,"Sidcley",293,2
+74076,"Misael",294,4
+92094,"Diogo Vitor",277,2
+80399,"Higor Leite",266,4
+42222,"Osvaldo",266,5
+72767,"Julinho Camargo",290,6
+40990,"Dorival Júnior",277,6
+63354,"Rodrigo Moledo",285,3
+71799,"Silvinho",317,5
+38508,"Eder Luis",267,5
+87227,"Zé Paulo",264,4
+90420,"William Schuster ",284,4
+69282,"Lucas Barrios",275,5
+82128,"Ferrugem",292,2
+68987,"João Vitor",316,4
+71719,"Elton",303,4
+79646,"Bruno Pereirinha",293,2
+92170,"Gabriel Vasconcelos",264,5
+77567,"Zé Mário",285,4
+92145,"Hyago",316,4
+60802,"Bruno Gallo",267,4
+92146,"André Luís",293,5
+85297,"Guisao ",276,4
+37623,"Rafael Marques",294,3
+82403,"César Martins",262,3
+68773,"Henrique",294,5
+78497,"Arnaldo",317,2
+79400,"Néstor Camacho",314,4
+92182,"Juninho",294,3
+92192,"Evandro",294,5
+51820,"Flavinho",315,5
+92193,"Ravanelli",303,5
+86509,"Ebert",285,2
+36802,"Ronaldinho Gaúcho",266,4
+70173,"Ederson",262,4
+37688,"Cícero",266,4
+37187,"Pc Gusmão",317,6
+85984,"Barrientos",293,4
+38139,"Bobô",284,5
+37705,"Juan",294,2
+92150,"Daniel Hernández",293,4
+82750,"Celsinho",316,4
+71603,"Luiz Eduardo",276,3
+91740,"Zé Arthur",317,5
+87266,"Duda",314,1
+92273,"Odair Hellmann",285,6
+38913,"Nenê",267,5
+80363,"Ariel Cabral",283,4
+69141,"Ricardo Bueno",317,5
+78756,"Alemão",316,5
+78718,"Michel",294,5
+92290,"Matheus Pato",266,5
+92291,"Bruno Viana",283,3
+92225,"Thiago Lopes",294,4
+50402,"Kayke",262,5
+92293,"Lucas Taylor ",275,2
+51365,"Hudson Coutinho",316,6
+70323,"Jorginho",267,6
+37085,"René Simões",316,6
+38960,"Zé Eduardo",290,5
+53865,"Léo Gamalho",314,5
+79553,"Mansur",282,2
+88140,"Isaac",264,5
+92434,"Daniel",275,4
+92438,"Matheus Phillipe",266,1
+82341,"Luiz Gustavo",317,3
+83817,"Clayson",303,4
+41159,"João Carlos",267,3
+51869,"Edson Ratinho",317,2
+73540,"Rogério",276,5
+71116,"Roberto",293,2
+92497,"Douglas",266,4
+78855,"Thiago Santos",275,4
+87552,"Vitor Bueno",277,4
+92504,"Batista",284,5
+92501,"Lucas Lovat",314,2
+83438,"Guilherme Parede",294,5
+92500,"Rafael Dumas",262,3
+92522,"Deivid",283,6
+72007,"Uillian Correia",283,4
+89641,"Bruno Ferreira",267,2
+37281,"Mano Menezes",283,6
+70515,"Ledesma",277,4
+38425,"Fábio Ferreira",303,3
+40758,"Leandrão",267,5
+62131,"Yuri",317,4
+87158,"Clebinho",275,4
+92190,"Gustavo Viera",264,4
+92574,"Kaio",284,4
+92584,"Milla",285,4
+54797,"Túlio De Melo",315,5
+42225,"Eusébio",317,2
+92623,"Kauê",275,5
+92604,"Jeferson",276,4
+92617,"Léo Tilica",284,5
+92618,"Wesley",284,2
+53189,"Alexandro",303,5
+72133,"Ednei",294,3
+92630,"Claudinho",264,5
+92631,"Trindade",262,4
+88165,"Wilker",314,5
+72724,"Juba",290,5
+92663,"Murilo",276,5
+92662,"Denilson",284,3
+92661,"Oliveira",285,2
+50281,"Wanderley Filho",290,6
+92702,"Daniel Paulista",292,6
+37086,"Artur Neto",290,6
+73580,"Falcão",292,6
+37662,"Jonathan",266,2
+37837,"Cristian",303,4
+68787,"Lincom",264,5
+61149,"Lucca",264,5
+42236,"Bruno Teles",267,2
+69070,"Wagner",293,3
+54422,"Jéferson",267,4
+80288,"Marcelinho",316,4
+89226,"Iago Maidana",276,3
+80338,"Tony ",284,2
+74081,"Guilherme Costa",267,4
+92696,"Renato Kayzer",267,5
+92764,"Bruno Baio",285,5
+92837,"Sergio Vieira",293,6
+92811,"Bruno Rodrigues",293,5
+85465,"Alex Santana",285,4
+92841,"Fernando Medeiros",277,4
+92901,"Felipe Moreira",303,6
+87225,"Pedro Henrique",264,3
+92848,"Breno Santos",266,2
+92189,"Samuel ",264,2
+92981,"Ronaldo",262,4
+89285,"Matheus Sales",275,4
+88393,"Ayrton ",266,2
+89975,"Rodolfo",282,1
+93028,"Danny Sergio",290,6
+93108,"Mateus Vital",267,4
+93153,"Pachequinho",294,6
+93152,"Tontini",284,4
+93151,"Thiago Santos",262,5
+87613,"Raul Cabral",314,6
+90259,"Luiz Fernando",283,4
+93317,"Diogo Giacomini",282,6
+79019,"Jayme De Almeida",262,6
+93282,"Fabio",292,4
+86763,"Jonathan ",317,4
+93281,"Adriano",317,5
+93283,"Rafinha",314,4
+93368,"Lucas Veríssimo",277,3
+89444,"Hugo Ragelli",283,5
+93377,"Jobson",275,4
+93378,"Augusto",275,3
+93376,"Wesley Souza",277,4
