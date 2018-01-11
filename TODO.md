@@ -1,6 +1,7 @@
 # TODO
 
 - [ ] Padronizar o formato dos CSVs
+  - [x] Definir padrão
   - [ ] 2014
   - [ ] 2015
   - [ ] 2016
